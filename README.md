@@ -19,7 +19,7 @@ This is a solution to the Product list challenge on Frontend Mentor. Frontend Me
 
 ### Key features
 
-- It calculates your monthly mortgage payment based on the mortgage amount, interest rate, and mortgage term.
+- Using the useState Hooks to manage products, items and quantities.
 - It provides the total interest paid over the life of the loan, helping you understand the long-term cost of borrowing.
 - It allows you to compare different loan options, such as fixed-rate and adjustable-rate mortgages, to find the best fit for your financial situation.
 
