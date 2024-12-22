@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Frontend Mentor - Product List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the Product list challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- Overview
+  - [The Challenge](#the-challenge)
+  - [Screenshot](#screenshoot)
+- My Process
+  - [Built with](#built-with)
+  - [What i learnt](#what-i-learnt)
+  - [continue development](#continue-development)
+  - [useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgements](acknowledgements)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Key features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- It calculates your monthly mortgage payment based on the mortgage amount, interest rate, and mortgage term.
+- It provides the total interest paid over the life of the loan, helping you understand the long-term cost of borrowing.
+- It allows you to compare different loan options, such as fixed-rate and adjustable-rate mortgages, to find the best fit for your financial situation.
 
-### `npm test`
+### Benefits
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Helps you plan your finances by providing a clear picture of your monthly payments and total loan cost.
+- Enables you to make informed decisions about loan options and repayment strategies.
+- Offers transparency into the breakdown of your payments, helping you understand how much goes towards interest and principal.
 
-### `npm run build`
+## Challenge
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Input mortgage information and see monthly repayment and total repayment amounts after submitting the form
+- See form validation messages if any field is incomplete
+- Complete the form only using their keyboard
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## My Process
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Understanding the task;
+- Separate it into smaller tasks (if possible), then solve them one by one.
 
-### `npm run eject`
+## Built With
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Flexbox
+- [React] - JS library
+- [Styled Components](https://styled-components.com/) - For styles
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## What I learnt
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- I discovered new keyboard shortcuts while working on the project.
+- Better and faster working with keyboard only features of VSCode.
+- I set a personal challenge to use only styled-components and avoid using className entirely.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## COntinue Development
 
-## Learn More
+- I'm continuing my journey to become a better frontend developer.
+- I need to learn to use useReducer often for large project.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Useful Resources
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [stackoverflow](https://stackoverflow.com/)
 
-### Code Splitting
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Github - [Mansaray Ishmael](https://github.com/ishmaelMans)
+- Frontend Mentor - [@ishmaelMans](https://www.frontendmentor.io/profile/ishmaelMans)
 
-### Analyzing the Bundle Size
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I appreciate the support from my family and friends. Thank you for always being there for me.

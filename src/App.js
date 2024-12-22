@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import { ThemeProvider } from "styled-components";
 import GlobalStyles from "./components/Global";
 import "./App.css";
