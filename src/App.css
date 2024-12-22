@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'RedHatText-Regular';
+  src: url('../public/fonts/static/RedHatText-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0 auto;
+  font-family: 'RedHatText-Regular';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .App {
   text-align: center;
 }
