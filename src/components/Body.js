@@ -51,7 +51,6 @@ const Body = () => {
         return product;
       })
     );
-    console.log(productId);
   };
 
   const increment = (productId) => {
@@ -72,7 +71,6 @@ const Body = () => {
         return product;
       })
     );
-    console.log(productId);
   };
 
   const totalQuantity = cartList.reduce(

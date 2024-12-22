@@ -17,6 +17,7 @@ const Products = styled.div`
     grid-template-columns: 1fr;
     grid-auto-rows: minmax(auto);
     gap: 20px;
+    margin-bottom: 25px;
 
     h1 {
       grid-column: 1/1;
