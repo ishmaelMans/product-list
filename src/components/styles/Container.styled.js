@@ -12,9 +12,9 @@ const Container = styled.div`
   background: ${({ theme }) => theme.color.Rose50};
 
   @media (max-width: 495px) {
+    margin: 0 auto;
     padding: 20px;
     max-width: 100%;
-    margin: 0;
     display: flex;
     flex-direction: column;
     background: #fff;
