@@ -20,22 +20,23 @@ This is a solution to the Product list challenge on Frontend Mentor. Frontend Me
 ### Key features
 
 - Using the useState Hooks to manage products, items and quantities.
-- It provides the total interest paid over the life of the loan, helping you understand the long-term cost of borrowing.
-- It allows you to compare different loan options, such as fixed-rate and adjustable-rate mortgages, to find the best fit for your financial situation.
+- Help to load product data from a JSON file or an API.
+- Map through the product data to render the list dynamically.
+- Provide visual feedback for user actions, such as updating the cart count.s
 
 ### Benefits
 
-- Helps you plan your finances by providing a clear picture of your monthly payments and total loan cost.
-- Enables you to make informed decisions about loan options and repayment strategies.
-- Offers transparency into the breakdown of your payments, helping you understand how much goes towards interest and principal.
+- Users can easily browse through products, view details, and add items to their cart.
+- Features like adding to cart, incrementing, and decrementing quantities make the interface interactive and engaging.
+- Handling state updates for adding, incrementing, and decrementing items improves your skills in managing dynamic data.
+- Loading product data from a JSON file or an API helps you practice data fetching and handling in React.
 
 ## Challenge
 
-- Input mortgage information and see monthly repayment and total repayment amounts after submitting the form
-- See form validation messages if any field is incomplete
-- Complete the form only using their keyboard
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+- Minimizing unnecessary re-renders to keep the application performant can be difficult, especially with frequent state updates.
+- Mapping through the product data to render the list dynamically requires a good understanding of JavaScript array methods.
+- Using styled-components or other CSS-in-JS solutions requires a different approach compared to traditional CSS.
+- Debugging issues related to state management, rendering, and performance can be time-consuming.
 
 ## My Process
 
