@@ -1,6 +1,5 @@
 import { ThemeProvider } from "styled-components";
 import GlobalStyles from "./components/Global";
-import "./App.css";
 import "./index.css";
 import Body from "./components/Body";
 

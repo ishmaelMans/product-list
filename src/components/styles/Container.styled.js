@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 const Container = styled.div`
+  font-family: "RedHatText-Regular";
   margin: 0 auto;
   max-width: 100%;
   width: 70%;
