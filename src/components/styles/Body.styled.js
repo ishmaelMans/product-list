@@ -13,11 +13,13 @@ const Products = styled.div`
 
   @media (max-width: 495px) {
     width: 100%;
+    max-width: 450px;
     display: grid;
     grid-template-columns: 1fr;
     grid-auto-rows: minmax(auto);
     gap: 20px;
     margin-bottom: 25px;
+    background-color: ${({ theme }) => theme.color.Rose50};
 
     h1 {
       grid-column: 1/1;

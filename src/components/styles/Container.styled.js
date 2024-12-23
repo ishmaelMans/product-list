@@ -10,13 +10,11 @@ const Container = styled.div`
   align-items: flex-start;
   justify-content: center;
   flex-direction: row;
-  background: ${({ theme }) => theme.color.Rose50};
 
   @media (max-width: 495px) {
     margin: 0 auto;
-    padding: 20px;
-    max-width: 100%;
-    // min-height: 500px;
+    padding: 20px 30px;
+    max-width: 450px;
     display: flex;
     flex-direction: column;
     background: #fff;
