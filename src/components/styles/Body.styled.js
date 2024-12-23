@@ -270,12 +270,14 @@ const OrderConfirmed = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  position: absolute;
+  position: fixed;
   overflow: hidden;
   z-index: 99;
   top: 0;
   left: 0;
-  width: 100%;
+  right: 0;
+  bottomL 0;
+  min-width: 100vw;
   min-height: 100vh;
   background-color: rgba(0, 0, 0, 0.6);
 
