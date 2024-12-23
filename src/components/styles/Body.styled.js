@@ -276,7 +276,7 @@ const OrderConfirmed = styled.div`
   top: 0;
   left: 0;
   right: 0;
-  bottomL 0;
+  bottom: 0;
   min-width: 100vw;
   min-height: 100vh;
   background-color: rgba(0, 0, 0, 0.6);
@@ -298,6 +298,9 @@ const OrderConfirmed = styled.div`
     p {
       font-size: 12px;
       margin-bottom: 20px;
+    }
+
+    @media (max-width: 495px) {
     }
   }
 
